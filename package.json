@@ -1,5 +1,5 @@
 {
-  "name": "",
+  "name": "remix-firebase",
   "private": true,
   "sideEffects": false,
   "type": "module",
